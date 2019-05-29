@@ -14,7 +14,7 @@ For proper connection user have to launch Apache server, and MySQL module in XAM
 All files are saved on http://localhost/phpmyadmin.
 
 User is able to use few panels:
-1. What is it? Text area + scroll pane with explementation what is "Amigurumi"
+1. "What is it?" Text area + scroll pane with explementation what is "Amigurumi"
 2. Adding new crochet toys panel
     - Active button "Choose image" allow to select image loaded on image field
     - Name, Price - text area for this values
