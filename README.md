@@ -33,3 +33,4 @@ User is able to use few panels:
 User is able to notice all toys saved in table above.
 Every toy has ID which is unic, name, price and date. 
 
+![GUI_Amigurumi_Data_Base](https://user-images.githubusercontent.com/5953716/58577625-2cf42f00-8247-11e9-8f25-78bd621b2c60.jpg)
